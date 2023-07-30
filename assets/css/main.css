@@ -121,7 +121,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -129,7 +129,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 11pt;
 			}
 
 		}
@@ -193,10 +193,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #5e42a653, #b74e91);
+				background-image: -webkit-linear-gradient(to right, #5e42a653, #b74e91);
+				background-image: -ms-linear-gradient(to right, #5e42a653, #b74e91);
+				background-image: linear-gradient(to right, #5e42a653, #b74e91);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;

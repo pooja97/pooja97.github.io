@@ -193,10 +193,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a653, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a653, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a653, #b74e91);
-				background-image: linear-gradient(to right, #5e42a653, #b74e91);
+				background-image: -moz-linear-gradient(to right, #5e42a653, #530336);
+				background-image: -webkit-linear-gradient(to right, #5e42a653, #530336);
+				background-image: -ms-linear-gradient(to right, #5e42a653, #530336);
+				background-image: linear-gradient(to right, #5e42a653, #530336);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2440,7 +2440,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #de99c5;
 			content: '\f00c';
 		}
 
@@ -2532,11 +2532,11 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #7e7792;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #7e7792;
 				}
 
 				.wrapper.style2 .icon.major:before {
